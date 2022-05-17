@@ -1,0 +1,15 @@
+КОНСТРУЮВАННЯ ПРОГРАМНОГО ЗАБЕЗПЕЧЕННЯ Екзамен 
+посилання на Гугл-форму з тестовим завданням
+
+https://docs.google.com/forms/d/e/1FAIpQLScQGNgRK40g1MYR3FygTZ5Id9kDs3UvhH4Q0EzRjcoSuFm12Q/viewform?vc=0&c=0&w=1&flr=0
+
+Оцінка = кількість балів / 2
+
+Посилання на задачі
+https://github.com/omc-college/ipz4-software_design/tree/master/Exam
+
+Рішення надсилати на вдресу
+t.i.lumpova@gmail.com
+
+Тести та рвшення задач припиняють прийматся о 10-20 для ІРЗ-41
+об 11-50 для ІПЗ-42
